@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/VRTemplate/Materials/M_GridRotation.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/LevelPrototyping/Meshes/SM_Ramp.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/House/electrical_substation.uasset",
+				"D:/Unreal Projects/VR_Architechture/VR_Practice/Content/House/Material__26.uasset"
 			]
 		}
 	]
