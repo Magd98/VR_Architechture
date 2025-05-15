@@ -1976,3 +1976,190 @@ The following settings have been applied:
 [2025.05.15-17.08.57:202][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9855.093750
 [2025.05.15-17.08.58:203][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.15-17.08.58:203][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9855.761719, Update Interval: 335.316620
+[2025.05.15-17.15.31:263][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10249.114258
+[2025.05.15-17.15.32:261][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.15.32:261][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10249.781250, Update Interval: 351.260101
+[2025.05.15-17.22.16:333][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10654.151367
+[2025.05.15-17.22.17:333][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.22.17:333][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10654.817383, Update Interval: 350.036926
+[2025.05.15-17.26.36:117][782]LogDerivedDataCache: C:/Users/magdm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.15-17.28.38:061][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11035.838867
+[2025.05.15-17.28.39:061][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.28.39:061][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11036.505859, Update Interval: 336.252319
+[2025.05.15-17.34.48:728][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11406.499023
+[2025.05.15-17.34.49:727][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.34.49:727][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11407.165039, Update Interval: 303.605469
+[2025.05.15-17.35.01:686][897]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Soundcore Life Note 3i), InstanceID=1
+[2025.05.15-17.35.01:726][897]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.15-17.35.01:726][897]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=60040
+[2025.05.15-17.35.02:058][898]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.15-17.35.02:061][898]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{369cb645-39dd-4be8-9f28-c1c78dd0b061}, Name=Headphones (Soundcore Life Note 3i)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=285.83
+[2025.05.15-17.35.02:061][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.15-17.35.02:063][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.15-17.35.58:100][466]Cmd: TRANSACTION UNDO
+[2025.05.15-17.35.58:100][466]LogEditorTransaction: Undo Set Location
+[2025.05.15-17.36.05:260][884]Cmd: TRANSACTION UNDO
+[2025.05.15-17.36.05:260][884]LogEditorTransaction: Undo Edit Y
+[2025.05.15-17.36.33:581][947]Cmd: TRANSACTION UNDO
+[2025.05.15-17.36.33:581][947]LogEditorTransaction: Undo Modify Component Scale
+[2025.05.15-17.37.46:920][304]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.46:920][304]LogEditorTransaction: Undo Edit Y
+[2025.05.15-17.37.47:169][316]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.47:169][316]LogEditorTransaction: Undo Edit Mobility
+[2025.05.15-17.37.47:335][323]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.47:335][323]LogEditorTransaction: Undo Edit Mobility
+[2025.05.15-17.37.47:528][333]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.47:528][333]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.15-17.37.47:961][359]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.47:961][359]LogEditorTransaction: Undo Clicking Background
+[2025.05.15-17.37.48:411][384]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.48:411][384]LogEditorTransaction: Undo Brush Set
+[2025.05.15-17.37.48:697][399]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.48:697][399]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.15-17.37.49:066][417]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.49:066][417]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.15-17.37.49:424][436]Cmd: TRANSACTION UNDO
+[2025.05.15-17.37.49:424][436]LogEditorTransaction: Undo Brush Set
+[2025.05.15-17.38.09:162][606]Cmd: TRANSACTION UNDO
+[2025.05.15-17.38.09:162][606]LogEditorTransaction: Undo Edit Y
+[2025.05.15-17.38.39:433][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.15-17.38.39:447][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4
+[2025.05.15-17.38.39:448][404]LogSavePackage: Moving 'D:/Unreal Projects/VR_Architechture/VR_Practice/Saved/VRTemplateMap_Auto42F11A9D8448CF2E772B0F0B83560B78D.tmp' to 'D:/Unreal Projects/VR_Architechture/VR_Practice/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2025.05.15-17.38.39:448][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.031
+[2025.05.15-17.38.39:448][404]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.05.15-17.38.39:449][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/House/electrical_substation] ([1] browsable assets)...
+[2025.05.15-17.38.39:449][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/House/electrical_substation]
+[2025.05.15-17.38.39:450][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/House/electrical_substation_Auto4
+[2025.05.15-17.38.39:451][404]LogSavePackage: Moving 'D:/Unreal Projects/VR_Architechture/VR_Practice/Saved/electrical_substation_Auto4219D107D473933AC993D8B8925F93222.tmp' to 'D:/Unreal Projects/VR_Architechture/VR_Practice/Saved/Autosaves/Game/House/electrical_substation_Auto4.uasset'
+[2025.05.15-17.38.39:451][404]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: ================================================
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Total job queries 185, among them cache hits 7 (3.78%), DDC hits 152 (82.16%), Duplicates 6 (3.24%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Tracking 172 distinct input hashes that result in 155 distinct outputs (90.12%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: RAM used: 121.36 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Average time worker was idle: 1404.87 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.16 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Job execution time: average 2.38 s, max 4.94 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Job life time (pending + execution): average 2.43 s, max 5.01
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Shader code size: average 7.854 KiB, min 2.785 KiB, max 16.207 KiB
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.82 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Average processing rate: 1.85 jobs/sec
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Total thread time: 8.449 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Total thread preprocess time: 4.71 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Percentage time preprocessing: 55.74%
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.90 sec, max 0.97 sec, min 0.83 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.42 sec, max 0.62 sec, min 0.32 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.36 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.64% of total time (compiled    6 times, average 0.42 sec, max 0.62 sec, min 0.32 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.26% of total time (compiled    2 times, average 0.90 sec, max 0.97 sec, min 0.83 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.10% of total time (compiled    5 times, average 0.29 sec, max 0.41 sec, min 0.22 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.19% of total time (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.36 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.28% of total time (compiled    2 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: === Material stats ===
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Materials Translated:    148
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: Material Cache Hits: 17 (11%)
+[2025.05.15-17.39.49:447][603]LogShaderCompilers: Display: ================================================
+[2025.05.15-17.40.27:104][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11744.890625
+[2025.05.15-17.40.28:105][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.40.28:105][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11745.556641, Update Interval: 320.982697
+[2025.05.15-17.43.13:726][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.15-17.43.13:771][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.15-17.45.49:662][861]LogShaderCompilers: Display: ================================================
+[2025.05.15-17.45.49:662][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.15-17.45.49:662][861]LogShaderCompilers: Display: Total job queries 190, among them cache hits 7 (3.68%), DDC hits 153 (80.53%), Duplicates 6 (3.16%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Tracking 177 distinct input hashes that result in 158 distinct outputs (89.27%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: RAM used: 122.25 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Average time worker was idle: 3635.27 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.16 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Job execution time: average 2.16 s, max 4.94 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Job life time (pending + execution): average 2.21 s, max 5.01
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Shader code size: average 7.628 KiB, min 2.785 KiB, max 16.207 KiB
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.01 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Total thread time: 9.62 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Total thread preprocess time: 4.788 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Percentage time preprocessing: 49.77%
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.90 sec, max 0.97 sec, min 0.83 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.41 sec, max 0.62 sec, min 0.32 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.35 sec, max 0.42 sec, min 0.28 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.31 sec, max 0.35 sec, min 0.24 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.98% of total time (compiled    7 times, average 0.41 sec, max 0.62 sec, min 0.32 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.67% of total time (compiled    2 times, average 0.90 sec, max 0.97 sec, min 0.83 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.88% of total time (compiled    6 times, average 0.29 sec, max 0.41 sec, min 0.22 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.93% of total time (compiled    3 times, average 0.35 sec, max 0.42 sec, min 0.28 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.78% of total time (compiled    3 times, average 0.31 sec, max 0.35 sec, min 0.24 sec)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: === Material stats ===
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Materials Translated:    148
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: Material Cache Hits: 17 (11%)
+[2025.05.15-17.45.49:663][861]LogShaderCompilers: Display: ================================================
+[2025.05.15-17.46.43:005][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12120.720703
+[2025.05.15-17.46.44:005][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.46.44:005][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12121.386719, Update Interval: 322.735077
+[2025.05.15-17.52.39:064][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12476.635742
+[2025.05.15-17.52.40:064][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.52.40:064][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12477.301758, Update Interval: 318.776215
+[2025.05.15-17.58.56:459][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12853.906250
+[2025.05.15-17.58.57:458][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-17.58.57:458][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12854.572266, Update Interval: 321.050446
+[2025.05.15-18.02.22:341][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-18.02.22:439][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.05.15-18.02.22:450][180]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.05.15-18.02.22:450][180]LogSavePackage: Moving 'D:/Unreal Projects/VR_Architechture/VR_Practice/Saved/VRTemplateMap39B30BCC433FBBAA9103B6B3E78BA50A.tmp' to 'D:/Unreal Projects/VR_Architechture/VR_Practice/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.05.15-18.02.22:461][180]LogFileHelpers: All files are already saved.
+[2025.05.15-18.02.22:461][180]LogFileHelpers: Saving map 'VRTemplateMap' took 0.053
+[2025.05.15-18.02.22:476][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.150 ms
+[2025.05.15-18.02.22:533][180]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-18.02.22:534][180]LogContentValidation: Enabled validators:
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-18.02.22:534][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-18.02.22:534][180]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.05.15-18.02.38:333][127]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.15-18.02.38:349][128]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.15-18.02.38:349][128]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=60040
+[2025.05.15-18.02.38:788][154]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.15-18.02.38:790][154]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{45648dae-e8fb-4f41-8da2-b763330be9cf}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=422.65
+[2025.05.15-18.02.38:790][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.15-18.02.38:792][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.15-18.05.05:996][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13223.399414
+[2025.05.15-18.05.06:179][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-18.05.06:179][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13223.566406, Update Interval: 315.344696
+[2025.05.15-18.11.11:707][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13589.092773
+[2025.05.15-18.11.11:907][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-18.11.11:907][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13589.277344, Update Interval: 323.103119
+[2025.05.15-18.17.16:199][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13953.603516
+[2025.05.15-18.17.16:399][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-18.17.16:399][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13953.788086, Update Interval: 336.283447
+[2025.05.15-18.23.48:439][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14345.749023
+[2025.05.15-18.23.48:638][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-18.23.48:639][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14345.932617, Update Interval: 348.559204
